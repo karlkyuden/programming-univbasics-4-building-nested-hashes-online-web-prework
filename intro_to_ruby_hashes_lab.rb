@@ -1,8 +1,8 @@
 def base_hash
-  newBaseHash[:name]
+  
   # Remember implicit return! We're returning this new Hash _without_ the
   # keyword "return." Nice and neat.
-	{}
+	newHash ={}
 end
 
 def monopoly_with_second_tier
